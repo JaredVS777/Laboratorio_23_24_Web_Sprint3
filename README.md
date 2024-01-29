@@ -24,4 +24,3 @@ Realización del Sprint 3 del proyecto Modulo tratamientos.
 ![image](https://github.com/OrlandH/Veterinaria_Sprint3/assets/117741739/2a1e6d2d-af74-40f9-a8eb-bde787f15459)
 ### Ejecucion
 ![image](https://github.com/OrlandH/Veterinaria_Sprint3/assets/117741739/0d8e9b17-f1a9-4206-9a28-9d222b813513)
-# Laboratorio_23_24_Web_Sprint3
